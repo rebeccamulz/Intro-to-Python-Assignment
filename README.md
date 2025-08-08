@@ -1,4 +1,4 @@
-# Intro-to-Python-Assignment
+# Intro-to-Python-Assignment -Week 1
 Description
 Objective
 Practice creating Python programs to perform arithmetic and string, experimenting with variables, and exploring data types.
